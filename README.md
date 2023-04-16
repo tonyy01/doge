@@ -1,2 +1,2 @@
 # doge
-Draw doge using programs
+Draw doge using programming languages
